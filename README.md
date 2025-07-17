@@ -80,5 +80,5 @@ This project explores the Netflix Titles dataset using Excel to demonstrate key 
 
 **About Me**
 
-I’m a Business Analytics major focused on growing my data analysis and visualization skills through hands-on projects. Connect with me on \[LinkedIn]
+I’m a Business Analytics major focused on growing my data analysis and visualization skills through hands-on projects. Connect with me on LinkedIn!
 
